@@ -1,9 +1,9 @@
-# Click here
- https://jinley.github.io/react-netflix/
-
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Website
+ Click here: https://jinley.github.io/react-netflix/
 
 ## Available Scripts
 
